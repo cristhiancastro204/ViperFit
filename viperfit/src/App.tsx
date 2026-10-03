@@ -10,7 +10,7 @@ function App() {
        <>
         <header></header>
 
-            <main></main>
+            <main><p>Bienvenido a ViperFit</p></main>
        </> 
             )
 }
